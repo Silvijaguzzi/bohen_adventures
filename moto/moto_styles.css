@@ -1,0 +1,13 @@
+.naslov-moto.opis-moto {
+    font-family: 'Lucida Sans';
+    color:black
+}
+
+img {
+    height: fit-content;
+width: fit-content;
+}
+
+body {
+    background-color: rgb (159, 247, 159);
+}

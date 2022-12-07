@@ -1,0 +1,52 @@
+.naslov {
+    font-size: 100px;
+    font-family: 'Lucida Sans';
+    background-image: linear-gradient(to right, rgb(89, 212, 89), rgb(157, 248, 157));
+    border-radius: 30px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.podnaslov {
+    line-height: 0;
+    font-size: 45px;
+    font-family: 'Lucida Sans';
+    background-color: transparent;
+    color: black;
+}
+
+body {
+    background-color: rgb(159, 247, 159);
+}
+
+#uvod {
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: black;
+    font-weight: bold;
+    line-height: 100px;
+    margin-top: 100px;
+}
+.column {
+    font-size: 30px;
+    color: darkblue;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    float: left;
+    width: 33.33%;
+    
+}
+
+.column.left {
+    text-align: left;
+}
+
+.column.centre {
+    text-align: center;
+}
+
+.column.right {
+    text-align: right;
+}
